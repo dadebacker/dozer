@@ -53,7 +53,7 @@ public final class XMLParserFactory {
     factory.setValidating(true);
     factory.setNamespaceAware(true);
     factory.setIgnoringElementContentWhitespace(true);
-    factory.setAttribute(SCHEMA_FEATURE, true); // For Xerces implementation
+    //factory.setAttribute(SCHEMA_FEATURE, true); // For Xerces implementation
     return factory;
   }
 

@@ -30,6 +30,7 @@
   <artifactId>dozer</artifactId>
   <packaging>jar</packaging>
   <name>Dozer</name>
+  <version>5.5.0-BRIC-ADF</version>
  
   <dependencies>
     <dependency>
